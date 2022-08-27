@@ -1,13 +1,15 @@
 # PROMA : 협업을 위한 업무 관리 플랫폼
 
+[Notion](https://star-boursin-f9f.notion.site/README-1d4949078c404c8cafa07aed64c02a14)
+
 </br>
 
 ## 팀원 소개
 
 |      | 이름   | 역할            |
 | ---- | ------ | --------------- |
-| 팀장 | 최지수 | FrontEnd        |
-| 팀원 | 박주한 | FrontEnd        |
+| 팀장 | 최지수 | FrontEnd, Design |
+| 팀원 | 박주한 | FrontEndm Design |
 | 팀원 | 김일환 | BackEnd, Deploy |
 | 팀원 | 서은민 | BackEnd, Deploy |
 | 팀원 | 장다빈 | BackEnd, Deploy |
