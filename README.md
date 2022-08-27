@@ -9,7 +9,7 @@
 |      | 이름   | 역할            |
 | ---- | ------ | --------------- |
 | 팀장 | 최지수 | FrontEnd, Design |
-| 팀원 | 박주한 | FrontEndm Design |
+| 팀원 | 박주한 | FrontEnd, Design |
 | 팀원 | 김일환 | BackEnd, Deploy |
 | 팀원 | 서은민 | BackEnd, Deploy |
 | 팀원 | 장다빈 | BackEnd, Deploy |
